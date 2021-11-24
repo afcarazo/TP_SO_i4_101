@@ -1,0 +1,9 @@
+Zarate Taiel - ALFA
+Ledesma Matías - BETA
+Carazo Agustina - GAMMA
+
+RESPUESTAS:
+    A- El color de TESTING quedó en BLUE.
+    B- El color de DESARROLLO quedó en YELLOW.
+    C- El color de master quedó en BLUE.
+    D- Quedó el favicon de BETA.
