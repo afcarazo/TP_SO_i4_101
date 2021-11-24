@@ -7,3 +7,11 @@ RESPUESTAS:
     B- El color de DESARROLLO quedó en YELLOW.
     C- El color de master quedó en BLUE.
     D- Quedó el favicon de BETA.
+    E- No hubieron problemas en hacer el push.
+    F- Existieron problemas al hacer el merge de las distintas ramas.
+    G- Los problemas del merge se solucionó haciendo un merge
+    manual de los datos fusionados.
+    H- Se sube los cambios forzados al repositorio, existiendo la posibilidad
+    de perder datos.
+    I- Tengo que pararme en la rama DESARROLLO y hacer 'git merge TESTING' para fusionar 
+    y tener los datos de TESTING en DESARROLLO.
